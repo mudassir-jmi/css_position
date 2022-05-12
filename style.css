@@ -1,0 +1,40 @@
+.main {
+    background-color: rgb(228, 56, 25);
+    width: 200px;
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.green {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 103px;
+    left: 111px;
+}
+
+.orange{
+    background-color: rgb(250, 112, 0);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 111px;
+}
+
+.blue{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 103px;
+    left: 410px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 410px;
+}
